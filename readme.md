@@ -9,3 +9,5 @@ Pasos para agregar cambios aportados por cada usuario:
 - Desde la nueva rama, hacer `git push --set-upstream origin nombre-de-rama`. Esto deberia subir los cambios a su fork, creando esa nueva rama en github.
 
 \*El trabajar en una nueva rama en su fork es opcional, es para mantener una separacion clara. Si no se trabaja en una nueva rama, basta con hacer `git push`.
+
+**Visitar pagina en https://matrs.github.io/cards_modal/**
